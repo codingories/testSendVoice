@@ -1,0 +1,9 @@
+{
+  "name": "testConnectWyApi",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
